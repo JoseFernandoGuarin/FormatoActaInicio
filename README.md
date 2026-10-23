@@ -1,4 +1,5 @@
 # Acta de inicio de práctica — FCA UdeA
+https://josefernandoguarin.github.io/FormatoActaInicio/
 
 Aplicativo web de un solo archivo (`acta_inicio_practica.html`) para que profesores y coordinadores de práctica de la Facultad de Ciencias Agrarias de la Universidad de Antioquia diligencien el **Acta de inicio de práctica académica** y la descarguen en PDF, lista para imprimir y firmar.
 
